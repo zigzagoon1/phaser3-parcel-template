@@ -3,3 +3,6 @@
 /node_modules
 /package-lock.json
 /.DS_Store
+/public/phaser-examples-master
+/public/assets/sprites/alien1.zip
+public/assets/sprites/blender-2.91.2-windows64.msi
