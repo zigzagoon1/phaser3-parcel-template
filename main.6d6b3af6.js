@@ -15,4 +15,4 @@ var t,e=require("process"),i=arguments[3];!function(e,i){"object"==typeof export
 },{"phaser":"E66h"}],"ZCfc":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e=a(require("phaser")),r=a(require("./scenes/GameScene")),t=a(require("./scenes/StartScene"));function a(e){return e&&e.__esModule?e:{default:e}}var u={type:e.default.AUTO,width:800,height:600,backgroundColor:"0xffffff",physics:{default:"arcade",arcade:{gravity:{y:200},debug:!0}},scene:[t.default,r.default]},d=new e.default.Game(u);exports.default=d;
 },{"phaser":"E66h","./scenes/GameScene":"HuEe","./scenes/StartScene":"LTxc"}]},{},["ZCfc"], null)
-//# sourceMappingURL=/main.6d6b3af6.js.map
+//# sourceMappingURL=/phaser3-parcel-template/main.6d6b3af6.js.map
